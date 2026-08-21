@@ -1,34 +1,35 @@
 <!-- ============================================================
      SUHAIL — GitHub Profile README
-     Color scheme: Deep Blue  #1E3A8A → #2563EB → #60A5FA
-     To switch to RED, find & replace:
-        1E3A8A → 7F1D1D
-        2563EB → DC2626
-        60A5FA → F87171
+     Color scheme: Amber  #7C2D12 → #EA580C → #FB923C
+     To change the palette, find & replace all three hex codes.
+     Alternatives (dark → mid → light):
+        Forest  : 14532D → 16A34A → 4ADE80
+        Slate   : 0F172A → 475569 → 94A3B8
+        Copper  : 78350F → B45309 → FCD34D
      ============================================================ -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=210&section=header&text=Suhail&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=I%20build%20systems%20that%20learn%20to%20see%20%E2%80%94%20and%20the%20code%20that%20holds%20them%20up.&descSize=17&descAlign=50&descAlignY=57&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FB923C&height=210&section=header&text=Suhail&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=I%20build%20systems%20that%20learn%20to%20see%20%E2%80%94%20and%20the%20code%20that%20holds%20them%20up.&descSize=17&descAlign=50&descAlignY=57&animation=fadeIn"
   alt="Suhail"
 />
 
 <a href="https://github.com/suhail17651">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Core+Systems+%C2%B7+Web;Currently+training+CNNs+for+plant+disease+detection;Sharpening+DSA+in+C+and+Java%2C+daily;I+like+problems+that+don't+have+a+tutorial"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=EA580C&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Core+Systems+%C2%B7+Web;Currently+training+CNNs+for+plant+disease+detection;Sharpening+DSA+in+C+and+Java%2C+daily;I+like+problems+that+don't+have+a+tutorial"
     alt="What I do"
   />
 </a>
 
 <br/>
 
-<a href="https://github.com/suhail17651"><img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LeetCode-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://github.com/suhail17651"><img src="https://img.shields.io/badge/GitHub-7C2D12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FB923C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LeetCode-7C2D12?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=suhail17651&color=2563EB&style=flat&label=Profile+views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=suhail17651&color=EA580C&style=flat&label=Profile+views" alt="views"/>
 
 </div>
 
@@ -74,14 +75,14 @@ I'm a CS undergrad at **VIT Bhopal University** who likes going one layer lower 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2563EB?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-EA580C?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-7C2D12?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ◇ ◇ ◇
 
@@ -89,10 +90,10 @@ I'm a CS undergrad at **VIT Bhopal University** who likes going one layer lower 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhail17651&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2563EB&icon_color=60A5FA&text_color=1d1d1f&bg_color=fbfbfd" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail17651&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=1d1d1f&bg_color=fbfbfd" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suhail17651&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EA580C&icon_color=FB923C&text_color=1d1d1f&bg_color=fbfbfd" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail17651&layout=compact&hide_border=true&langs_count=8&title_color=EA580C&text_color=1d1d1f&bg_color=fbfbfd" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=suhail17651&hide_border=true&background=fbfbfd&stroke=e5e7eb&ring=2563EB&fire=2563EB&currStreakNum=1d1d1f&currStreakLabel=2563EB&sideNums=1d1d1f&sideLabels=1d1d1f" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=suhail17651&hide_border=true&background=fbfbfd&stroke=e5e7eb&ring=EA580C&fire=EA580C&currStreakNum=1d1d1f&currStreakLabel=EA580C&sideNums=1d1d1f&sideLabels=1d1d1f" alt="GitHub streak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=suhail17651&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
@@ -122,6 +123,6 @@ Reading code counts as building. So does deleting it.
 
 **Let's build something.** · [Email me](mailto:YOUR-EMAIL@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [GitHub](https://github.com/suhail17651)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1E3A8A&height=120&section=footer" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,50:EA580C,100:7C2D12&height=120&section=footer" alt=""/>
 
 </div>
