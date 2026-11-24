@@ -83,14 +83,6 @@ I'm a CS undergrad at **VIT Bhopal University** who likes going one layer lower 
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" alt="Git, GitHub, Linux, Bash, VS Code">
 </p>
 
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake.svg">
-  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake.svg">
-</picture>
-
 ### 🧭 How I think about building
 
 No grand process, just a loop I trust:
