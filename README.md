@@ -1,128 +1,117 @@
-<!-- ============================================================
-     SUHAIL — GitHub Profile README
-     Color scheme: Amber  #7C2D12 → #EA580C → #FB923C
-     To change the palette, find & replace all three hex codes.
-     Alternatives (dark → mid → light):
-        Forest  : 14532D → 16A34A → 4ADE80
-        Slate   : 0F172A → 475569 → 94A3B8
-        Copper  : 78350F → B45309 → FCD34D
-     ============================================================ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Suhail: a cat at a gamepad playing a pixel game next to a laptop full of code" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-md-suhail"><img src="https://img.shields.io/badge/connect-LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="Connect on LinkedIn"></a>
+  <a href="https://github.com/suhail17651?tab=repositories"><img src="https://img.shields.io/badge/explore-my_repos-ea580c?style=flat-square&logo=github" alt="Explore my repos"></a>
+  <img src="https://komarev.com/ghpvc/?username=suhail17651&color=f59e0b&style=flat-square&label=profile+views" alt="Profile views">
+</p>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FB923C&height=210&section=header&text=Suhail&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=I%20build%20systems%20that%20learn%20to%20see%20%E2%80%94%20and%20the%20code%20that%20holds%20them%20up.&descSize=17&descAlign=50&descAlignY=57&animation=fadeIn"
-  alt="Suhail"
-/>
+### 👋 About me
 
-<a href="https://github.com/suhail17651">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=EA580C&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Core+Systems+%C2%B7+Web;Currently+training+CNNs+for+plant+disease+detection;Sharpening+DSA+in+C+and+Java%2C+daily;I+like+problems+that+don't+have+a+tutorial"
-    alt="What I do"
-  />
-</a>
+I'm a CS undergrad at **VIT Bhopal University** who likes going one layer lower than the tutorial goes. Most of my time splits between two things: **computer vision**, where I teach classical CV pipelines to pull clean information out of messy video, and **core systems fundamentals**: C, Java, and the DSA grind that makes everything else easier. The web work sits in between, because a model nobody can use isn't finished.
 
-<br/>
+- 🎞️ **Recently shipped:** [SlideSnap](https://github.com/suhail17651/SlideSnap), which turns a lecture recording into a searchable slide PDF and PPTX
+- 🧮 **Currently grinding:** data structures & algorithms in C and Java, consistency over cramming
+- 🌱 **Learning next:** deeper backend work with Node.js, and shipping projects end to end
+- 💬 **Open to:** SWE internships, open-source issues, and anyone who wants a second pair of eyes on their code
 
-<a href="https://github.com/suhail17651"><img src="https://img.shields.io/badge/GitHub-7C2D12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FB923C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LeetCode-7C2D12?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+### 🛠️ Featured work
 
-<img src="https://komarev.com/ghpvc/?username=suhail17651&color=EA580C&style=flat&label=Profile+views" alt="views"/>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/suhail17651/SlideSnap"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/slidesnap-dark.svg"><img src="assets/slidesnap-light.svg" alt="SlideSnap cover: a tilted lecture slide in a video frame, rectified into PDF and PPTX pages"></picture></a>
+    </td>
+    <td width="45%" valign="top">
+      <h4>SlideSnap 🎞️</h4>
+      <p>Hours of lecture video, turned into a searchable deck. SlideSnap finds every distinct slide using frame differencing + SSIM, picks the sharpest frame, straightens camera tilt with a homography, removes projector glare, runs OCR, merges bullet-by-bullet builds, and exports a bookmarked PDF and an editable PPTX.</p>
+      <p>Classical CV only, CPU-based and deterministic. No black-box scene detection.</p>
+      <img src="https://img.shields.io/badge/Python-222?style=flat-square&logo=python" alt="Python">
+      <img src="https://img.shields.io/badge/OpenCV-222?style=flat-square&logo=opencv" alt="OpenCV">
+      <img src="https://img.shields.io/badge/NumPy-222?style=flat-square&logo=numpy" alt="NumPy">
+      <img src="https://img.shields.io/badge/OCR-222?style=flat-square" alt="OCR">
+      <br><br>
+      <b><a href="https://github.com/suhail17651/SlideSnap">Code ↗</a></b>
+    </td>
+  </tr>
+</table>
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suhail17651/Campus-Course-Records-Manager-CCRM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ccrm-dark.svg"><img src="assets/ccrm-light.svg" alt="CCRM cover: a console menu next to a small class diagram"></picture></a>
+      <h4>Campus Course &amp; Records Manager</h4>
+      <p>A menu-driven Java console app for students, courses, enrollments, grades and transcripts. It's an exercise in doing OOP properly: an abstract <code>Person</code>, builders, enums with fields, custom exceptions, CSV import/export.</p>
+      <img src="https://img.shields.io/badge/Java-222?style=flat-square&logo=openjdk" alt="Java">
+      <img src="https://img.shields.io/badge/OOP-222?style=flat-square" alt="OOP">
+      <br><br>
+      <b><a href="https://github.com/suhail17651/Campus-Course-Records-Manager-CCRM">Code ↗</a></b>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suhail17651/OSS-AUDIT-24BAI10942"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ossaudit-dark.svg"><img src="assets/ossaudit-light.svg" alt="OSS Audit cover: a terminal running disk and package audit scripts"></picture></a>
+      <h4>OSS Audit</h4>
+      <p>Five bash scripts auditing Git (GPL v2) on Linux: system identity, package and license check, disk and permission audit, log analysis, and an interactive open-source manifesto generator.</p>
+      <img src="https://img.shields.io/badge/Bash-222?style=flat-square&logo=gnubash" alt="Bash">
+      <img src="https://img.shields.io/badge/Linux-222?style=flat-square&logo=linux" alt="Linux">
+      <img src="https://img.shields.io/badge/Git-222?style=flat-square&logo=git" alt="Git">
+      <br><br>
+      <b><a href="https://github.com/suhail17651/OSS-AUDIT-24BAI10942">Code ↗</a></b>
+    </td>
+  </tr>
+</table>
 
----
+### 🧰 Toolkit
 
-## Hi, I'm Suhail 👋
+<p>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" alt="C, Java, Python, JavaScript">
+</p>
+<p>
+  <b>Web</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,html,css" alt="Node.js, HTML, CSS">
+</p>
+<p>
+  <b>ML / Vision</b><br>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="OpenCV, TensorFlow">
+</p>
+<p>
+  <b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" alt="Git, GitHub, Linux, Bash, VS Code">
+</p>
 
-I'm a CS undergrad at **VIT Bhopal University** who likes going one layer lower than the tutorial goes. Most of my time splits between two things: **computer vision**, where I train CNNs to pull a diagnosis out of a leaf photo, and **core systems fundamentals** — C, Java, and the DSA grind that makes everything else easier. The web work sits in between, because a model nobody can use isn't finished.
+### 🐍 Contribution snake
 
-- 🌿 **Currently building** → a CNN-based plant disease detection system trained on PlantVillage
-- 🧮 **Currently grinding** → Data Structures & Algorithms in C/Java — consistency over cramming
-- 🌱 **Learning next** → deeper backend work with Node.js, and getting comfortable shipping end-to-end
-- 💬 **Open to** → SWE internships, open-source issues, and anyone who wants a second pair of eyes on their code
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/suhail17651/suhail17651/output/snake.svg">
+</picture>
 
-◇ ◇ ◇
+### 🧭 How I think about building
 
-## 🚀 Selected work
-
-| Project | What it is |
-| :--- | :--- |
-| **[Plant Disease Detection](https://github.com/suhail17651)** `In progress` | A CNN that classifies crop diseases straight from leaf images, trained on the PlantVillage dataset for multi-class recognition across crop types. The interesting part isn't the architecture — it's that field photos never look like training data, so the work is in making it hold up outside the dataset. · `Python` `TensorFlow/Keras` `OpenCV` `CNN` |
-| **[Campus Course & Records Manager](https://github.com/suhail17651/Campus-Course-Records-Manager-CCRM)** | A console-based Java application for managing students, courses, enrollments and grades — built as an exercise in doing OOP properly: modular design, clean separation of concerns, no god classes. · `Java` `OOP` |
-| **[OSS Audit](https://github.com/suhail17651/OSS-AUDIT-24BAI10942)** | Tooling and scripts for auditing open-source repositories — reading other people's codebases turns out to be its own skill, separate from writing your own. · `Shell` `Git` |
-
-◇ ◇ ◇
-
-## 🛠️ Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**ML / Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-EA580C?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-7C2D12?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-◇ ◇ ◇
-
-## 📊 The stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suhail17651&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EA580C&icon_color=FB923C&text_color=1d1d1f&bg_color=fbfbfd" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail17651&layout=compact&hide_border=true&langs_count=8&title_color=EA580C&text_color=1d1d1f&bg_color=fbfbfd" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=suhail17651&hide_border=true&background=fbfbfd&stroke=e5e7eb&ring=EA580C&fire=EA580C&currStreakNum=1d1d1f&currStreakLabel=EA580C&sideNums=1d1d1f&sideLabels=1d1d1f" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=suhail17651&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
-◇ ◇ ◇
-
-## 🧭 How I think about building
-
-No grand process — just a loop I trust:
+No grand process, just a loop I trust:
 
 > **1.** Understand the problem before touching the keyboard → **2.** Build the simplest version that actually runs → **3.** Break it on purpose → **4.** Fix, learn, repeat
 
 Reading code counts as building. So does deleting it.
 
-◇ ◇ ◇
+### 🎯 Off the keyboard
 
-## 🎯 Off the keyboard
+| 🎮 | **Gaming**, mostly Clash Royale, for the same reason I like DSA: limited resources, one right move |
+|---|---|
+| 📸 | **Photography**: teaching a model to see makes you pay a lot more attention to how *you* see |
+| 🏄 | **Tech surfing**: new tools, new releases, the endless scroll of things worth trying |
+| 🐱 | **The cat in the banner**: my co-op partner. Great reflexes, terrible at DSA |
 
-🎮 **Gaming** — mostly Clash Royale, mostly for the same reason I like DSA: limited resources, one right move.
-📸 **Photography** — teaching a model to see makes you pay a lot more attention to how *you* see.
-🏄 **Tech surfing** — new tools, new releases, the endless scroll of things worth trying.
+### 📫 Let's connect
 
----
+<p>
+  <a href="https://www.linkedin.com/in/shaik-md-suhail"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"></a>
+  <a href="https://github.com/suhail17651"><img src="https://img.shields.io/badge/GitHub-ea580c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<div align="center">
-
-**Let's build something.** · [Email me](mailto:YOUR-EMAIL@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [GitHub](https://github.com/suhail17651)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,50:EA580C,100:7C2D12&height=120&section=footer" alt=""/>
-
-</div>
+<p align="center"><sub>Thanks for stopping by. Let's build something.</sub></p>
