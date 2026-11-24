@@ -101,11 +101,12 @@ Reading code counts as building. So does deleting it.
 
 ### 🎯 Off the keyboard
 
-| 🎮 | **Gaming**, mostly Clash Royale, for the same reason I like DSA: limited resources, one right move |
-|---|---|
-| 📸 | **Photography**: teaching a model to see makes you pay a lot more attention to how *you* see |
-| 🏄 | **Tech surfing**: new tools, new releases, the endless scroll of things worth trying |
-| 🐱 | **The cat in the banner**: my co-op partner. Great reflexes, terrible at DSA |
+<table>
+  <tr><td>🎮</td><td><b>Gaming</b>, mostly Clash Royale, for the same reason I like DSA: limited resources, one right move</td></tr>
+  <tr><td>📸</td><td><b>Photography</b>: teaching a model to see makes you pay a lot more attention to how <i>you</i> see</td></tr>
+  <tr><td>🏄</td><td><b>Tech surfing</b>: new tools, new releases, the endless scroll of things worth trying</td></tr>
+  <tr><td>🐱</td><td><b>The cat in the banner</b>: my co-op partner. Great reflexes, terrible at DSA</td></tr>
+</table>
 
 ### 📫 Let's connect
 
